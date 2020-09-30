@@ -30,7 +30,6 @@ h2 {
 }
 
 .navigation {
-
     list-style: none;
     color: rgb(204, 0, 0);
     font-size: 25px;
@@ -47,3 +46,6 @@ h2 {
     text-transform: uppercase;
 }
 
+.content {
+    font-size: 25px;
+}
