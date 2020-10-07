@@ -29,6 +29,10 @@ h2 {
     margin-bottom: 12px;
 }
 
+img {
+    display: inline-block;
+}
+
 .navigation {
     list-style: none;
     color: rgb(204, 0, 0);
