@@ -23,30 +23,47 @@
     font-family: Roboto, sans-serif;
     font-size: 15px;
     font-weight: 500;
-    line-height: 24px;
     text-transform: uppercase;
     text-align: center;
     margin-top: 14px;
 }
+
 h1 {
-    margin-top: 52px;
+    margin-top: 53px;
+}
+h2.title{
+    margin-top: 30px;
 }
 .title {
     color: #f9bf3b;
     font-family: "Roboto - Black", sans-serif;
     text-align: center;
-    margin-top: 30px;
     font-size: 41px;
     font-weight: 400;
-    line-height: 24px;
     text-transform: uppercase;
 }
 
-.title_big {
+.simple .title_big {
     color: #ffffff;
     font-size: 80px;
     font-family: "Roboto - Black", sans-serif;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 21px;
     text-transform: uppercase;
+}
+
+.promo .promo_text {
+    margin-top: 23px;
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 28px;
+    font-family: "Roboto Light", sans-serif;
+    text-align: center;
+}
+
+.promo .promo_text span {
+    color: #f9bf3b;
+    font-family: "Roboto - Bold", sans-serif;
+    font-weight: 700;
 }
